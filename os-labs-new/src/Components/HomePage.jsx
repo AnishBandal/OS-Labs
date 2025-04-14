@@ -1,3 +1,5 @@
+import { AlgorithmCard } from "./AlgorithmCard";
+import { Disc, Book } from "lucide-react";
 export const HomePage = ({ setCurrentPage, darkMode }) => {
     return (
       <div className="p-8">
